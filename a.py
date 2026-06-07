@@ -1,1 +1,4 @@
-print("aaaaaaaa")
+print(123)
+print(111)
+a = []
+print(555)
